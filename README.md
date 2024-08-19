@@ -63,3 +63,6 @@ To get started with this project, follow these steps:
 ## Dependencies
 
 The project dependencies are listed in the `requirements.txt` file. To install them, use the command provided in the "Set Up the Environment" section.
+
+## License
+This project is licensed under the [MIT License](https://github.com/Bahareh0281/TLA-MidtermProject/blob/main/LICENSE).
